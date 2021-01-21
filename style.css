@@ -1,7 +1,7 @@
 :root {
     --main_foreground_color: #000;
     --main_background_color: #FFF;
-    font-size: 400%;
+    font-size: 200%;
 
 }
 body {
@@ -37,7 +37,7 @@ h2 {
     margin: 0;
     font-family: "Source Serif VF", "Source Serif SmText";
     font-weight: 400;
-    font-variation-settings: "opsz" 8;
+    /*font-variation-settings: "opsz" 8;*/
     font-feature-settings: "c2sc" 1, "smcp" 1;
     font-size: 1rem;
     color: #BBB;
