@@ -17,12 +17,6 @@ main {
     /*display: grid;*/
 }
 
-footer {
-    border-top: 0.5px solid var(--main_foreground_color);
-    padding: 1rem .5rem .5rem .5rem;
-    /*padding: .5rem;*/
-}
-
 a {
     text-decoration: none;
     color: #666;
