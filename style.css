@@ -95,7 +95,6 @@ p {
 }
 
 .opsz_caption {
-    font-family: "Source Serif VF", "Source Serif Caption";
     font-size: 4pt;
     /*font-variation-settings: "opsz" 4;*/
     line-height: 6pt;
